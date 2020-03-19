@@ -1,1 +1,2 @@
-- Chacon, S. and Straub, B. Pro Git. Apress.
+- scott chacon and ben Straub.Pro Git. Apress.
+- Ryan hodson. Ry's Git tutorial. Smashwords (2014)
